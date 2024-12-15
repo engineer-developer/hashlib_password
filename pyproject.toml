@@ -2,7 +2,7 @@
 name = "hashlib-password"
 version = "0.1.0"
 description = ""
-authors = ["Suslov Alexey <suslov.lexx@gmail.com>"]
+authors = ["Alex"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
