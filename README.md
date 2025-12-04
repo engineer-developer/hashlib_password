@@ -1,3 +1,3 @@
-# Make hashed password using hashlib
+# Создание хэшей паролей используя hashlib
 
 ### 
